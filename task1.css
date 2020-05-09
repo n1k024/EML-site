@@ -1,0 +1,10 @@
+
+body {
+	background-image: url(registration.jpg);
+	background-repeat: repeat-x;
+	padding-top: 50px;
+}
+
+h1, h2, span { background-color: blue; color: white }
+
+
