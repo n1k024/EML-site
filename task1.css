@@ -8,3 +8,4 @@ body {
 h1, h2, span { background-color: blue; color: white }
 
 
+.navbar:hover{font-weight: bold;font-size: large;}
