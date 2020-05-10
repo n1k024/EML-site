@@ -1,7 +1,5 @@
 
-body {
-
-}
+body {}
 
 h1  { background-color: blue; color: gold; }
 
@@ -11,3 +9,9 @@ h1  { background-color: blue; color: gold; }
 .emllogo{height: 400px;}
 
 .facebooklogo{height: 100px;}
+
+.facebooklogo:hover{height: 250px;}
+
+.address{}
+
+.address:hover{font-weight: bold;}
