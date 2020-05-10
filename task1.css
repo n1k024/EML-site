@@ -1,9 +1,11 @@
 
-body {}
+body {color: gold}
 
 h1  { background-color: blue; color: gold; }
 
+header{}
 
+.headings{ }
 .navbar:hover{font-weight: bold;font-size: large;}
 
 .emllogo{height: 400px;}
