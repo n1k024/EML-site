@@ -1,2 +1,2 @@
 # EMl-site
-Website for EML English in Ljubjana 
+Website for EML English Mass in Ljubjana 
